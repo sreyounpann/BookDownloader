@@ -52,5 +52,6 @@ This project is licensed under the [MIT License](LICENSE.md).
 ## Acknowledgements
 
 - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- [WPF](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/overview/?view=netdesktop-7.0)
 
 Feel free to customize this template based on additional details specific to your project or any additional features you may want to highlight.
